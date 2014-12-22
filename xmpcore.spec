@@ -1,7 +1,9 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name:          xmpcore
 Version:       5.1.2
-Release:       2%{?dist}
+Release:       2.1
 Summary:       Java XMP Library
+Group:         Development/Java
 License:       BSD
 URL:           http://www.adobe.com/devnet/xmp.html
 Source0:       http://repo1.maven.org/maven2/com/adobe/xmp/%{name}/%{version}/%{name}-%{version}-sources.jar
