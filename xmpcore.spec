@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:          xmpcore
 Version:       5.1.2
-Release:       2.1
+Release:       2.2
 Summary:       Java XMP Library
 Group:         Development/Java
 License:       BSD
