@@ -5,7 +5,7 @@ Release:       2.3
 Summary:       Java XMP Library
 Group:         Development/Java
 License:       BSD
-URL:           http://www.adobe.com/devnet/xmp.html
+URL:           https://www.adobe.com/devnet/xmp.html
 Source0:       http://repo1.maven.org/maven2/com/adobe/xmp/%{name}/%{version}/%{name}-%{version}-sources.jar
 # from http://repo1.maven.org/maven2/com/adobe/xmp/xmpcore/5.1.2/xmpcore-5.1.2.pom
 # customized:
